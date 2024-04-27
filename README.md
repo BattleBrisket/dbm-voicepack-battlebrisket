@@ -2,7 +2,7 @@
 
 US English male voice pack for DeadlyBossMods (DBM) addon for World of Warcraft
 
-Recorded and mastered by a Real Human:tm: (no AI generation)!
+Recorded and mastered by a Real Human :tm: (no AI generation)!
 
 # LICENSE
 
