@@ -1,0 +1,6 @@
+package-as: dbm-voicepack-battlebrisket
+
+required-dependencies:
+    - 3358-deadly-boss-mods
+
+license-output: LICENSE.txt
