@@ -1,0 +1,5 @@
+LICENSE
+
+Free to use for original intended use as voiceover (VO) pack for the DeadlyBossMods (DBM) addon for World of Warcraft.
+
+All rights otherwise reserved.
