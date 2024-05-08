@@ -8,5 +8,5 @@
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: BattleBrisket US English Recorded
 ## X-DBM-Voice-ShortName: BattleBrisket
-## X-DBM-Voice-Version: 16
+## X-DBM-Voice-Version: 17
 ## X-DBM-Voice-HasCount: 1
