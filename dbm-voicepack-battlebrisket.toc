@@ -1,0 +1,25 @@
+## Interface: 100207, 110000, 110002
+## Interface-Classic: 11503
+## Interface-BCC: 20504
+## Interface-Wrath: 30403
+## Interface-Cata: 40400
+
+## Version: @project-version@
+## Title:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530Voicepack BattleBrisket|r
+## Notes: Professional recorded voiceover for Deadly Boss Mods
+## Author: BattleBrisket
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+
+## X-Category: Plugins
+## X-License: See LICENSE.txt for details
+## X-Date: @project-date-iso@
+## X-Revision: @project-revision@
+## X-Curse-Project-ID: 984591
+## X-Wago-ID: rNkPRl6a
+
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: BattleBrisket US English Recorded
+## X-DBM-Voice-ShortName: BattleBrisket
+## X-DBM-Voice-Version: 17
+## X-DBM-Voice-HasCount: 1
